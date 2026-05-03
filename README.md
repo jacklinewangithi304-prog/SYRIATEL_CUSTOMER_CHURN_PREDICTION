@@ -67,3 +67,4 @@ Additionally, customers subscribed to international plans should be closely moni
 # Conclusion
 While the model provides valuable predictive insights, it should be used as a decision-support tool alongside business judgment, particularly in cases where prediction confidence is lower. Implementing these strategies can help SyriaTel reduce churn rates, improve customer satisfaction, and ultimately increase long-term profitability.
 # README link:
+https://github.com/jacklinewangithi304-prog/SYRIATEL_CUSTOMER_CHURN_PREDICTION
